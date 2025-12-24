@@ -1,6 +1,6 @@
 ## Busy Bee Work Day Sheduler
 
-* This is a daily planner app that lets you save appointments.
+* A daily planner app that lets you save appointments.
 * Plan your day with the standard business hours schedule.
 * Hours and Days are shown and updated in realtime. 
 * Color coded for past present future hours of the day.
